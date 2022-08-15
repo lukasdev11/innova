@@ -1,0 +1,117 @@
+{
+  "Ads": [
+      {
+      "select_main_ads": "ADMOB",
+      "select_backup_ads":"APPLOVIN-M",
+      "main_ads_banner": "ca-app-pub-3940256099942544/6300978111",
+      "main_ads_intertitial":"ca-app-pub-3940256099942544/1033173712",
+      "main_ads_rewards":"ca-app-pub-3940256099942544/5224354917",
+      "native_for_admob":"ca-app-pub-3940256099942544/2247696110",
+      "backup_ads_banner":"08254b91970cdd7e",
+      "backup_ads_intertitial":"c37663c1efcf2e49",
+      "backup_ads_rewards":"fe5c11927c885448",
+      "survey_api_key":"vt5yEOQv_QxMIdV-9M5v7aEt9_n5S4--GxoLctg5SDaDXho9TPVfe7ni0eWLIgSyG5u8IFxsrG9P4NU0XrfNwG",
+      "interval_intertitial": 5,
+      "initialize_sdk":"",
+      "initialize_sdk_backup_ads":"_9sfAOSOFI8OQEpTV7M_UlmV44dUvcasHLJ1Hn1_MMLqT9KdJygswR7TTRvtHUTGQSkVO-T6E_WhqwhEcXnrCT",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+      }
+   ],
+   "DATA":
+  [
+    {
+      "id": 1,
+      "category":"Innova Terbaru",
+      "title":"New Venturer",
+      "image":"https://archive.org/download/new-venturer/New%20Venturer.png",
+      "link_mods":"https://archive.org/download/innova_202208/venturer22.bussidmod",
+      "link_livery":"null"
+    },
+    {
+      "id": 2,
+      "category":"Innova Terbaru",
+      "title":"Inova TERBARU Venturer",
+      "image":"https://archive.org/download/new-venturer/Venturer%20Terbaru.png",
+      "link_mods":"https://archive.org/download/innova_202208/Sr8.bussidmod",
+      "link_livery":"null"
+    },
+    {
+      "id": 3,
+      "category":"Innova Terbaru",
+      "title":"Kijang Innova Reborn Travel",
+      "image":"https://archive.org/download/new-venturer/Toyota%20Innova%20Venturer%202017.png",
+      "link_mods":"https://archive.org/download/innova_202208/Kijang%20Innova%20Reborn.bussidvehicle",
+      "link_livery":"null"
+    },
+    {
+      "id": 4,
+      "category":"Innova Terbaru",
+      "title":"TOYOTA KIJANG INNOVA REBORN FACELIFT",
+      "image":"https://archive.org/download/new-venturer/TOYOTA%20KIJANG%20INNOVA%20REBORN%20FACELIFT.png",
+      "link_mods":"https://archive.org/download/innova_202208/facelif.bussidmod",
+      "link_livery":"null"
+    },
+    {
+      "id": 5,
+      "category":"Innova Terbaru",
+      "title":"Toyota Innova Reborn 2021 CVT",
+      "image":"https://archive.org/download/new-venturer/Toyota%20Innova%20Reborn%202021%20CVT.png",
+      "link_mods":"https://archive.org/download/innova_202208/MOD%20Toyota_Innova%20Reborn%202021.bussidmod",
+      "link_livery":"null"
+    },
+    {
+      "id": 6,
+      "category":"Innova Terbaru",
+      "title":"Toyota Innova SR8",
+      "image":"https://archive.org/download/new-venturer/Toyota%20Innova%20SR8.png",
+      "link_mods":"https://archive.org/download/innova_202208/Sr8.bussidmod",
+      "link_livery":"null"
+    },
+    {
+      "id": 7,
+      "category":"Innova Terbaru",
+      "title":"Innova Killer",
+      "image":"https://archive.org/download/new-venturer/Innova%20Killer.png",
+      "link_mods":"https://archive.org/download/innova_202208/innovakiller.bussidmod",
+      "link_livery":"null"
+    },
+    {
+      "id": 8,
+      "category":"Innova Terbaru",
+      "title":"Toyota Innova 2.0 G",
+      "image":"https://archive.org/download/new-venturer/Toyota%20Innova%202.0%20G.png",
+      "link_mods":"https://archive.org/download/innova_202208/MOD%20TOYOTA%20KIJANG%20INNOVA%20G%202.0%20BUSSID%20FREE%20BY%20AZUMODS.bussidmod",
+      "link_livery":"null"
+    },
+    {
+      "id": 9,
+      "category":"Innova Terbaru",
+      "title":"Innova 2012",
+      "image":"https://archive.org/download/new-venturer/Toyota%20Innova%202012.png",
+      "link_mods":"https://archive.org/download/innova_202208/toyota%20Inova2012.bussidmod",
+      "link_livery":"null"
+    },
+    {
+      "id": 10,
+      "category":"Innova Terbaru",
+      "title":"Toyota Innova Reborn 2016",
+      "image":"https://archive.org/download/new-venturer/Toyota%20Innova%20Reborn%202016.png",
+      "link_mods":"https://archive.org/download/innova_202208/Innova%202016%20by%20MAH%20Channel.bussidmod",
+      "link_livery":"null"
+    },
+    {
+      "id": 11,
+      "category":"Innova Terbaru",
+      "title":"Innova Travel",
+      "image":"https://archive.org/download/new-venturer/Kijang%20Innova%20Reborn%20Travel.png",
+      "link_mods":"https://archive.org/download/innova_202208/Kijang%20Innova%20Reborn.bussidvehicle",
+      "link_livery":"null"
+    }
+  ]
+}
