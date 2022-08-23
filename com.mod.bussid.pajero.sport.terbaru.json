@@ -1,0 +1,95 @@
+{
+  "Ads": [
+      {
+      "select_main_ads": "ADMOB",
+      "select_backup_ads":"APPLOVIN-M",
+      "main_ads_banner": "ca-app-pub-3940256099942544/6300978111",
+      "main_ads_intertitial":"ca-app-pub-3940256099942544/1033173712",
+      "main_ads_rewards":"ca-app-pub-3940256099942544/5224354917",
+      "native_for_admob":"ca-app-pub-3940256099942544/2247696110",
+      "backup_ads_banner":"08254b91970cdd7e",
+      "backup_ads_intertitial":"c37663c1efcf2e49",
+      "backup_ads_rewards":"fe5c11927c885448",
+      "survey_api_key":"vt5yEOQv_QxMIdV-9M5v7aEt9_n5S4--GxoLctg5SDaDXho9TPVfe7ni0eWLIgSyG5u8IFxsrG9P4NU0XrfNwG",
+      "interval_intertitial": 5,
+      "initialize_sdk":"",
+      "initialize_sdk_backup_ads":"_9sfAOSOFI8OQEpTV7M_UlmV44dUvcasHLJ1Hn1_MMLqT9KdJygswR7TTRvtHUTGQSkVO-T6E_WhqwhEcXnrCT",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+      }
+   ],
+   "DATA":
+  [
+    {
+      "id": 1,
+      "category":"Pajero Sport",
+      "title":"Mitsubishi Pajero Sport 2017 Offroad",
+      "image":"https://archive.org/download/mitsubishi-pajero-sport-standar-full-anim-2017/Mitsubishi%20Pajero%20Sport%202017%20Offroad.png",
+      "link_mods":"https://archive.org/download/lucas_202208/Mitsubishi%20Pajero%20Sport%202017%20Offroad.bussidmod",
+      "link_livery":"null"
+    },
+    {
+      "id": 2,
+      "category":"Pajero Sport",
+      "title":"Mitsubishi Pajero Sport Standar Full Anim 2017",
+      "image":"https://archive.org/download/mitsubishi-pajero-sport-standar-full-anim-2017/Mitsubishi%20Pajero%20Sport%20Standar%20Full%20Anim%202017.png",
+      "link_mods":"https://archive.org/download/lucas_202208/Mitsubishi%20Pajero%20Sport%20Standar%20Full%20Anim%202017.bussidmod",
+      "link_livery":"null"
+    },
+    {
+      "id": 3,
+      "category":"Pajero Sport",
+      "title":"Mod Pajero Spesial  Saat Mudik",
+      "image":"https://archive.org/download/mitsubishi-pajero-sport-standar-full-anim-2017/05.png",
+      "link_mods":"https://archive.org/download/lucas_202208/Mod%20Pajero%20Spesial%20%20Saat%20Mudik.bussidmod",
+      "link_livery":"null"
+    }
+  ,
+    {
+      "id": 4,
+      "category":"Pajero Sport",
+      "title":"PAJERO SPORT Militer",
+      "image":"https://archive.org/download/mitsubishi-pajero-sport-standar-full-anim-2017/Pajero%20Sport%20Militer.jpg",
+      "link_mods":"https://archive.org/download/lucas_202208/PAJERO%20SPORT%20Militer.bussidmod",
+      "link_livery":"https://archive.org/download/pajero-2021-facelift/Livery_Pajero_Sport_Polisi_Militer.jpg"
+    } ,
+    {
+      "id": 5,
+      "category":"Pajero Sport",
+      "title":"Pajero 2021 Facelift",
+      "image":"https://archive.org/download/pajero-2021-facelift/Pajero%202021%20Facelift.png",
+      "link_mods":"https://archive.org/download/lucas_202208/Pajero%202021%20Facelift.bussidmod",
+      "link_livery":"null"
+    },
+    {
+      "id": 6,
+      "category":"Pajero Sport",
+      "title":"Pajero 2021",
+      "image":"https://archive.org/download/mitsubishi-pajero-sport-standar-full-anim-2017/Pajero%202021.png",
+      "link_mods":"https://archive.org/download/lucas_202208/Pajero%202021.bussidmod",
+      "link_livery":"null"
+    }
+  ,
+    {
+      "id": 7,
+      "category":"Pajero Sport",
+      "title":"Pajero Sport Dakar 2015",
+      "image":"file:///android_asset/truck.webp",
+      "link_mods":"https://archive.org/download/lucas_202208/Pajero%20Sport%20Dakar%202015.bussidmod",
+      "link_livery":"null"
+    },
+    {
+      "id": 8,
+      "category":"Pajero Sport",
+      "title":"pajero polisi",
+      "image":"https://archive.org/download/mitsubishi-pajero-sport-standar-full-anim-2017/Pajero%20Polisi.png",
+      "link_mods":"https://archive.org/download/lucas_202208/pajero%20polisi.bussidmod",
+      "link_livery":"https://archive.org/download/pajero-2021-facelift/Template%20pajero%20polisi.jpg"
+    }
+  ]
+}
