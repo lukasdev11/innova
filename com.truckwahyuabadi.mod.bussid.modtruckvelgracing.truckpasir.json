@@ -1,0 +1,205 @@
+{
+  "Ads": [
+      {
+      "select_main_ads": "ADMOB",
+      "select_backup_ads":"APPLOVIN-M",
+      "main_ads_banner": "ca-app-pub-3940256099942544/6300978111",
+      "main_ads_intertitial":"ca-app-pub-3940256099942544/1033173712",
+      "main_ads_rewards":"ca-app-pub-3940256099942544/5224354917",
+      "native_for_admob":"ca-app-pub-3940256099942544/2247696110",
+      "backup_ads_banner":"08254b91970cdd7e",
+      "backup_ads_intertitial":"c37663c1efcf2e49",
+      "backup_ads_rewards":"fe5c11927c885448",
+      "survey_api_key":"vt5yEOQv_QxMIdV-9M5v7aEt9_n5S4--GxoLctg5SDaDXho9TPVfe7ni0eWLIgSyG5u8IFxsrG9P4NU0XrfNwG",
+      "interval_intertitial": 5,
+      "initialize_sdk":"",
+      "initialize_sdk_backup_ads":"_9sfAOSOFI8OQEpTV7M_UlmV44dUvcasHLJ1Hn1_MMLqT9KdJygswR7TTRvtHUTGQSkVO-T6E_WhqwhEcXnrCT",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+      }
+   ],
+   "DATA":
+  [
+    {
+      "id": 1,
+      "category":"Mod Bussid Truck",
+      "title":"Truck 1",
+      "image":"https://archive.org/download/fga_20220822/01.png",
+      "link_mods":"https://archive.org/download/andriawaa/01.bussidvehicle",
+      "link_livery":"null"
+    },
+    {
+      "id": 2,
+      "category":"Mod Bussid Truck",
+      "title":"Truck 2",
+      "image":"https://archive.org/download/fga_20220822/02.png",
+      "link_mods":"https://archive.org/download/andriawaa/02.bussidmod",
+      "link_livery":"null"
+    },
+    {
+      "id": 3,
+      "category":"Mod Bussid Truck",
+      "title":"Truck 3",
+      "image":"https://archive.org/download/fga_20220822/03.png",
+      "link_mods":"https://archive.org/download/andriawaa/03.bussidmod",
+      "link_livery":"https://archive.org/download/a_20220823/003.png"
+    },
+    {
+      "id": 4,
+      "category":"Mod Bussid Truck",
+      "title":"Truck 4",
+      "image":"https://archive.org/download/fga_20220822/04.png",
+      "link_mods":"https://archive.org/download/andriawaa/04.bussidmod",
+      "link_livery":"null"
+    } ,
+    {
+      "id": 5,
+      "category":"Mod Bussid Truck",
+      "title":"Truck 5",
+      "image":"https://archive.org/download/fga_20220822/05.png",
+      "link_mods":"https://archive.org/download/andriawaa/05.bussidmod",
+      "link_livery":"https://archive.org/download/a_20220823/005.png"
+    },
+    {
+      "id": 6,
+      "category":"Mod Bussid Truck",
+      "title":"Truck 6",
+      "image":"https://archive.org/download/fga_20220822/06.png",
+      "link_mods":"https://archive.org/download/andriawaa/06.bussidmod",
+      "link_livery":"null"
+    },
+    {
+      "id": 7,
+      "category":"Mod Bussid Truck",
+      "title":"Truck 7",
+      "image":"https://archive.org/download/fga_20220822/07.png",
+      "link_mods":"https://archive.org/download/andriawaa/07.bussidmod",
+      "link_livery":"https://archive.org/download/a_20220823/007.png"
+    },
+    {
+      "id":8,
+      "category":"Mod Bussid Truck",
+      "title":"Truck 8",
+      "image":"https://archive.org/download/fga_20220822/08.png",
+      "link_mods":"https://archive.org/download/andriawaa/08.bussidmod",
+      "link_livery":"null"
+    },
+    {
+      "id": 9,
+      "category":"Mod Bussid Truck",
+      "title":"Truck 9",
+      "image":"https://archive.org/download/fga_20220822/09.png",
+      "link_mods":"https://archive.org/download/andriawaa/09.bussidmod",
+      "link_livery":"https://archive.org/download/a_20220823/009.png"
+    },
+    {
+      "id": 10,
+      "category":"Mod Bussid Truck",
+      "title":"Truck 10",
+      "image":"https://archive.org/download/fga_20220822/10.png",
+      "link_mods":"https://archive.org/download/andriawaa/10.bussidmod",
+      "link_livery":"https://archive.org/download/a_20220823/010.png"
+    } ,
+    {
+      "id": 11,
+      "category":"Mod Bussid Truck",
+      "title":"Truck 11",
+      "image":"https://archive.org/download/fga_20220822/11.png",
+      "link_mods":"https://archive.org/download/andriawaa/11.bussidmod",
+      "link_livery":"null"
+    },
+    {
+      "id": 12,
+      "category":"Mod Bussid Truck",
+      "title":"Truck 12",
+      "image":"https://archive.org/download/fga_20220822/12.png",
+      "link_mods":"https://archive.org/download/andriawaa/12.bussidmod",
+      "link_livery":"https://archive.org/download/a_20220823/012.png"
+    },
+    {
+      "id": 13,
+      "category":"Mod Bussid Truck",
+      "title":"Truck 13",
+      "image":"https://archive.org/download/fga_20220822/13.png",
+      "link_mods":"https://archive.org/download/andriawaa/13.bussidmod",
+      "link_livery":"https://archive.org/download/a_20220823/013.png"
+    },
+    {
+      "id": 14,
+      "category":"Mod Bussid Truck",
+      "title":"Truck 14",
+      "image":"https://archive.org/download/fga_20220822/14.png",
+      "link_mods":"https://archive.org/download/andriawaa/14.bussidmod",
+      "link_livery":"https://archive.org/download/a_20220823/014.png"
+    } ,
+    {
+      "id": 15,
+      "category":"Mod Bussid Truck",
+      "title":"Truck 15",
+      "image":"https://archive.org/download/fga_20220822/15.png",
+      "link_mods":"https://archive.org/download/andriawaa/015.bussidmod",
+      "link_livery":"https://archive.org/download/a_20220823/015.png"
+    },
+    {
+      "id": 16,
+      "category":"Mod Bussid Truck",
+      "title":"Truck 16",
+      "image":"https://archive.org/download/fga_20220822/16.png",
+      "link_mods":"https://archive.org/download/andriawaa/16.bussidmod",
+      "link_livery":"https://archive.org/download/a_20220823/016.png"
+    },
+    {
+      "id": 17,
+      "category":"Mod Bussid Truck",
+      "title":"Truck 17",
+      "image":"https://archive.org/download/fga_20220822/17.png",
+      "link_mods":"https://archive.org/download/andriawaa/17.bussidmod",
+      "link_livery":"https://archive.org/download/a_20220823/017.png"
+    },
+    {
+      "id": 18,
+      "category":"Mod Bussid Truck",
+      "title":"Truck 18",
+      "image":"https://archive.org/download/fga_20220822/18.png",
+      "link_mods":"https://archive.org/download/andriawaa/18.bussidmod",
+      "link_livery":"null"
+    },
+    {
+      "id": 19,
+      "category":"Mod Bussid Truck",
+      "title":"Truck 19",
+      "image":"https://archive.org/download/fga_20220822/19.png",
+      "link_mods":"https://archive.org/download/andriawaa/19.bussidmod",
+      "link_livery":"https://archive.org/download/a_20220823/019.png"
+    },
+    {
+      "id": 20,
+      "category":"Mod Bussid Truck",
+      "title":"Truck 20",
+      "image":"https://archive.org/download/fga_20220822/20.png",
+      "link_mods":"https://archive.org/download/andriawaa/20.bussidmod",
+      "link_livery":"https://archive.org/download/a_20220823/020.png"
+    } ,
+    {
+      "id": 21,
+      "category":"Mod Bussid Truck",
+      "title":"Truck 21",
+      "image":"https://archive.org/download/fga_20220822/21.png",
+      "link_mods":"https://archive.org/download/andriawaa/21.bussidmod",
+      "link_livery":"https://archive.org/download/a_20220823/021.png"
+    },
+    {
+      "id": 22,
+      "category":"Mod Bussid Truck",
+      "title":"Truck 22",
+      "image":"https://archive.org/download/fga_20220822/22.png",
+      "link_mods":"https://archive.org/download/andriawaa/22.bussidmod",
+      "link_livery":"https://archive.org/download/a_20220823/022.png"
+    }
+  ]
+}
