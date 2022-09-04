@@ -1,0 +1,93 @@
+{
+  "Ads": [
+      {
+      "select_main_ads": "ADMOB",
+      "select_backup_ads":"APPLOVIN-M",
+      "main_ads_banner": "ca-app-pub-3940256099942544/6300978111",
+      "main_ads_intertitial":"ca-app-pub-3940256099942544/1033173712",
+      "main_ads_rewards":"ca-app-pub-3940256099942544/5224354917",
+      "native_for_admob":"ca-app-pub-3940256099942544/2247696110",
+      "backup_ads_banner":"08254b91970cdd7e",
+      "backup_ads_intertitial":"c37663c1efcf2e49",
+      "backup_ads_rewards":"fe5c11927c885448",
+      "survey_api_key":"vt5yEOQv_QxMIdV-9M5v7aEt9_n5S4--GxoLctg5SDaDXho9TPVfe7ni0eWLIgSyG5u8IFxsrG9P4NU0XrfNwG",
+      "interval_intertitial": 5,
+      "initialize_sdk":"",
+      "initialize_sdk_backup_ads":"_9sfAOSOFI8OQEpTV7M_UlmV44dUvcasHLJ1Hn1_MMLqT9KdJygswR7TTRvtHUTGQSkVO-T6E_WhqwhEcXnrCT",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+      }
+   ],
+   "DATA":
+  [
+    {
+      "id": 1,
+      "category":"Mobil Fortuner Mod Bussid",
+      "title":"Fortuner 2014",
+      "image":"https://archive.org/download/fortun/FORTUNER%202014.jpg",
+      "link_mods":"https://archive.org/download/toyoas/FORTUNER%202014.bussidmod",
+      "link_livery":"null"
+    },
+    {
+      "id": 2,
+      "category":"Mobil Fortuner Mod Bussid",
+      "title":"Fortuner Vrz",
+      "image":"https://archive.org/download/fortun/fortuner%20Vrz.png",
+      "link_mods":"https://archive.org/download/toyoas/Fortuner%20Vrz.bussidmod",
+      "link_livery":"null"
+    },
+    {
+      "id": 3,
+      "category":"Mobil Fortuner Mod Bussid",
+      "title":"FOrtuner 2.7 G",
+      "image":"https://archive.org/download/fortun/MOD%20BUSSID%20FORTUNER%202.7G.jpg",
+      "link_mods":"https://archive.org/download/toyoas/MOD%20BUSSID%20FORTUNER%202.7G.bussidmod",
+      "link_livery":"null"
+    },
+    {
+      "id": 4,
+      "category":"Mobil Fortuner Mod Bussid",
+      "title":"Fortuner Facelift",
+      "image":"https://archive.org/download/fortun/TOYOTA%20FORTUNER%20G%20TETRA%20DRIVE%20FACELIFT.jpg",
+      "link_mods":"https://archive.org/download/toyoas/TOYOTA%20FORTUNER%20G%20TETRA%20DRIVE%20FACELIFT.bussidmod",
+      "link_livery":"null"
+    } ,
+    {
+      "id": 5,
+      "category":"Mobil Fortuner Mod Bussid",
+      "title":"Fortuner 2017",
+      "image":"https://archive.org/download/fortun/fortuner%202017.jpg",
+      "link_mods":"https://archive.org/download/toyoas/Toyota%20Fortuner%202017.bussidmod",
+      "link_livery":"null"
+    },
+    {
+      "id": 6,
+      "category":"Mobil Fortuner Mod Bussid",
+      "title":"Fortuner Advanture",
+      "image":"https://archive.org/download/fga_20220822/06.png",
+      "link_mods":"https://archive.org/download/toyoas/Toyota%20Fortuner%20Adventure%20by%20Zilla.bussidmod",
+      "link_livery":"null"
+    },
+    {
+      "id": 7,
+      "category":"Mobil Fortuner Mod Bussid",
+      "title":"Fortuner Sport",
+      "image":"https://archive.org/download/fortun/Toyota%20Fortuner%20GR%20Sport.jpg",
+      "link_mods":"https://archive.org/download/toyoas/Toyota%20Fortuner%20Gr%20Sport.bussidmod",
+      "link_livery":"null"
+    },
+    {
+      "id":8,
+      "category":"Mobil Fortuner Mod Bussid",
+      "title":"Fortuner Patwal",
+      "image":"https://archive.org/download/fortun/TOYOTA%20FORTUNER%202.8%20VRZ%20PATWAL.jpg",
+      "link_mods":"https://archive.org/download/toyoas/vrzpatwal.bussidmod",
+      "link_livery":"https://archive.org/download/fortun/TOYOTA%20FORTUNER%202.8%20VRZ%20PATWAL%201.jpg"
+    }
+  ]
+}
