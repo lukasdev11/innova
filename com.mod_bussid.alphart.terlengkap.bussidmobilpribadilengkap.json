@@ -1,0 +1,85 @@
+{
+  "Ads": [
+      {
+      "select_main_ads": "ADMOB",
+      "select_backup_ads":"APPLOVIN-M",
+      "main_ads_banner": "ca-app-pub-3940256099942544/6300978111",
+      "main_ads_intertitial":"ca-app-pub-3940256099942544/1033173712",
+      "main_ads_rewards":"ca-app-pub-3940256099942544/5224354917",
+      "native_for_admob":"ca-app-pub-3940256099942544/2247696110",
+      "backup_ads_banner":"08254b91970cdd7e",
+      "backup_ads_intertitial":"c37663c1efcf2e49",
+      "backup_ads_rewards":"fe5c11927c885448",
+      "survey_api_key":"vt5yEOQv_QxMIdV-9M5v7aEt9_n5S4--GxoLctg5SDaDXho9TPVfe7ni0eWLIgSyG5u8IFxsrG9P4NU0XrfNwG",
+      "interval_intertitial": 5,
+      "initialize_sdk":"",
+      "initialize_sdk_backup_ads":"_9sfAOSOFI8OQEpTV7M_UlmV44dUvcasHLJ1Hn1_MMLqT9KdJygswR7TTRvtHUTGQSkVO-T6E_WhqwhEcXnrCT",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+      }
+   ],
+   "DATA":
+  [
+    {
+      "id": 1,
+      "category":"Toyota Alphard",
+      "title":"Toyota Alphard Hybrid",
+      "image":"https://archive.org/download/alphart_202208/ALPHARD%20HYBRID%20Mevvah.jpg",
+      "link_mods":"https://archive.org/download/dev_20220829/ALPHARD%20HYBRID%20Mevvah.bussidmod",
+      "link_livery":"null"
+    },
+    {
+      "id": 2,
+      "category":"Toyota Alphard",
+      "title":"Toyota Alphard Modifikasi",
+      "image":"https://archive.org/download/alphart_202208/Aplhart%20Modifikasi.jpg",
+      "link_mods":"https://archive.org/download/dev_20220829/Aplhart%20Modifikasi.bussidmod",
+      "link_livery":"https://archive.org/download/alphart_202208/Aplhart%20Modifikasi%201.png"
+    },
+    {
+      "id": 3,
+      "category":"Toyota Alphard",
+      "title":"Toyota Alphard 2020",
+      "image":"https://archive.org/download/new-toyota-alphard-2020-hybrid/New%20Toyota%20Alphard%202020%20Hybrid.jpg",
+      "link_mods":"https://archive.org/download/dev_20220829/New%20Toyota%20Alphard%202020%20Hybrid.bussidmod",
+      "link_livery":"null"
+    },
+    {
+      "id": 4,
+      "category":"Toyota Alphard",
+      "title":"Toyota Alphard 2017",
+      "image":"https://archive.org/download/alphart_202208/Toyota%20Alphard%202017.jpg",
+      "link_mods":"https://archive.org/download/dev_20220829/Toyota%20Alphard%202017.bussidmod",
+      "link_livery":"null"
+    } ,
+    {
+      "id": 5,
+      "category":"Toyota Alphard",
+      "title":"Toyota Alphard Excecutive Lounge 2019",
+      "image":"https://archive.org/download/alphart_202208/Screenshot_1.png",
+      "link_mods":"https://archive.org/download/dev_20220829/Toyota%20Alphard%20Executive%20Lounge%202019.bussidmod",
+      "link_livery":"https://archive.org/download/a_20220823/005.png"
+    },
+    {
+      "id": 6,
+      "category":"Toyota Alphard",
+      "title":"Toyota Alphard Single Glass Roof",
+      "image":"https://archive.org/download/alphart_202208/Toyota%20Alphard%20Single%20Glass%20Roof.png",
+      "link_mods":"https://archive.org/download/dev_20220829/Toyota%20Alphard%20Single%20Glass%20Roof.bussidmod",
+      "link_livery":"null"
+    },
+    {
+      "id": 7,
+      "category":"Toyota Alphard",
+      "title":"Toyota Alphard ",
+      "image":"https://archive.org/download/alphart_202208/Toyota%20Alphard.jpg",
+      "link_mods":"https://archive.org/download/dev_20220829/Toyota%20Alphard.bussidmod",
+      "link_livery":"null"
+    }
+  ]
+}
